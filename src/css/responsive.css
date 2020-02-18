@@ -1,0 +1,274 @@
+
+@media (max-width:768px){
+	header {
+		width:100%;
+		margin-left:0;
+	}
+	.content-h3 {
+		line-height: 1.4;
+	}
+	header ul li a {
+		padding: 10px;
+	}
+	.p-17 {
+		line-height: 2.4;
+		font-size: 17px;
+		color: white;
+		padding: 15px;
+		display: inline;
+	}
+	.login-box input {
+		padding: 10px;
+	}
+
+	.matchCardHeaderTitleDesktop_a2024{
+		max-width: 200px !important;
+	}
+
+	.logo-set {
+		display: inline !important;
+		margin-top: 0 !important;
+	}
+	.special-att {
+		line-height: 2;
+	}
+	/* header .login-btn {
+		margin-top: 7px !important;
+		padding: 5px 6px !important;
+    	margin-right: 20px;
+	} */
+	.sort-link{
+		padding: 6px;
+		font-size: 11px;
+	}
+	.h1-sz {
+		font-size: 48px;
+		line-height: 1.2;
+	}
+	.navbar-brand {
+		padding: 3px 15px !important;
+	}
+	.col-7 {
+		margin-top: 60px;
+	}
+	header .team {
+		width:100%;	
+		height: 100%;
+	}
+	.col-xs-3 {
+		padding:0 !important;
+	}
+	header .team-box {
+		padding: 8px 30px 8px 30px;
+		width: 98%;
+	}
+	header .teams-right {
+		margin-right: 0px;;
+	}
+	header .teams-left {
+		margin-left: 0px;
+	}
+	.fixed-bottom {
+		width:100%;
+	}
+	.fb-14 {
+		font-size: 12px !important;
+	}
+	.modal-dialog {
+		margin: 0 auto !important;
+		display: block !important;
+	}
+	.container_eee6d {
+		width: 100%;
+	}
+	.p-14 {
+		font-size: 13px;
+	}
+	.mg-l {
+    	margin-left: 25px !important;
+	}
+	.mg-r {
+		margin-right: 25px !important;
+	}
+	
+
+	.css-3 {
+		padding-left: 2.5rem;
+
+	}
+	.btn--flat{
+		font-size: 12px;
+	}
+
+	.css-4 {
+		padding-right: 2.5rem;
+	}
+
+	.progressContainer_00657 {
+		padding: 5px 10px 20px;
+	}
+
+	.kep-login-facebook.metro{
+		margin: 10px auto;
+	}
+
+	.fb-1 {
+		margin-top: 27px;
+	}
+	.right-btns {
+		float: none;
+	}
+	
+	.left-btns {
+		float: none;
+	}
+	header li {
+		padding: 0;
+	}
+	.modal-dialog {
+		width: 80% !important;
+	}
+
+	.block-response {
+		display: block;
+	}
+	.bg1{
+		background-size: cover;
+		background-position: top;
+		min-height: 1200px;
+	}
+	.download-bg {
+		padding:0px;
+	}
+	.rightinput{
+		margin-left: 0px;
+		margin-top: 15px;
+		height: 49px;
+		width: 30%;
+	} 
+	.android-btn {
+		margin: 10px auto;
+		display: block;
+	}
+	.leftinput {
+		width: 70%;
+	}
+	.app-setting {
+		max-width: 100%;
+	}
+	ul li a {
+		padding: 6px 8px;
+		margin: 0;
+	}
+	.caption-h1 {
+		margin-top: 0px;
+		font-size: 25px;
+	}
+	.process-h1{
+		font-size: 18px;
+	}
+	#about {
+		background-size: cover;
+	}
+	.process-icon {
+		width: 40px;
+		height: 40px;
+		color: #FFFFFF;
+		padding: 9px 14px;
+	}
+	#process h5 {
+		font-size: 16px;
+	}
+	footer {
+		background-repeat: no-repeat;
+		margin-top: 2rem;
+		background-image: -webkit-gradient(linear, right top, left top, from(#0985f9), to(#6809dc));
+		background-size: cover;
+	}
+	.pd-t {
+		padding-top: 5rem !important;
+	}
+	footer h4 {
+		padding-left: 0;
+		color: #FFFFFF;
+		font-size: 22px;
+		margin-top: 4rem;
+	}
+	header .teams-response {
+		width: 100%;
+		height: 77% !important;
+	}
+	.modal-info-customize {
+		margin-left: 13% !important;
+		width: 90% !important;
+	}
+	.footerButtonContainer_b9ae4{
+		width: 100% !important;
+	}
+	.bg-4{
+		background-position: center;
+		margin-left: 0;
+		width: 100%;
+	}
+
+
+}
+	@media (max-width:770px){
+	.modal-info-customize {
+		margin-left: 5%;
+		width: 90% !important;
+	}
+	
+	
+}
+
+
+@media (min-width: 960px){
+	.MuiTab-root {
+    	font-size: 1.35rem !important;
+    	min-width: 100px !important;
+	}
+	
+}
+
+@media (min-width: 771px){
+	.team-preview {
+		display: none;
+	}
+	.none {
+		display: block;
+	}
+	.close-icon {
+		display: none;
+	}
+	.col-7 {
+		padding-top: 75px;
+		margin-left: -15px;
+	}
+	
+	
+}
+@media (max-width:425px) {
+	.players-cards-1 {
+		margin: 0% !important;
+		display: block;
+	
+	}
+	.col-7>.flex {
+		justify-content: space-around;
+    	flex-wrap: wrap;
+	}
+	.createteam-mini-nav {
+		padding: 10px 14px;
+	}
+	.ctSortingHeader_a6515 {
+		height: 28px;
+	}
+
+}
+
+@media (max-width:343px){
+	.createteam-mini-nav {
+		padding: 10px;
+	}
+}

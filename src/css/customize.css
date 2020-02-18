@@ -1,0 +1,10 @@
+header {
+	margin-left:0;
+}
+
+.bg-4 {
+    background: url(../img/bg-5.jpg);
+    height: 100%;
+    background-repeat:no-repeat;
+	float:left;
+}
