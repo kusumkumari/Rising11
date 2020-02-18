@@ -43,7 +43,7 @@ import HowToPlay from '../NavContent/HowToPlay';
 import NewContest from '../NewContest/index.js';
 import RefferalCode from '../RefferalCode/index.js';
 import ContestCode from '../ContestCode/index.js';
-
+import UserJoinContest from '../UserSaveJoinContest';
 import { isLoggedIn } from '../App/ApiIntegration';
 
 const WrappedRoutes = () => (
@@ -52,6 +52,9 @@ const WrappedRoutes = () => (
     <Route exact path="/joinedcontest/:matchid/:cid" component={JoinedContest} />
     <Route exact path="/createcontest/:matchid/:cid" component={CreateContest} />
     <Route exact path="/newcontest/:matchid/:cid/:contestName/:contestSize/:prize" component={NewContest} />
+    
+    <Route exact path="/savejoincontest/:contestName/:matchid/:cid/:prize/:winner/:ratio/:entryfee" component={UserJoinContest} />
+
     <Route exact path="/myteam/:matchid/:cid/:c" component={MyTeam} />
     <Route exact path="/contestdetail/:matchid/:cid/:id" component={ContestDetail} />
     <Route exact path="/createteam/:matchid/:cid/:team/:type" component={CreateTeam} />

@@ -127,15 +127,15 @@ class ContestCard extends Component {
               This is a Beta Version of Rising11
             </marquee>
             <div className="row">
-              <div className="col-md-2 col-xs-3">
+              <div className="col-md-3 col-xs-4">
 
                 <Link to={"/"}><i className='fa fa-home fa-home1 ch'></i></Link>
 
               </div>
-              <div className="col-md-8 col-xs-5">
+              <div className="col-md-6 col-xs-4">
                 <h5 className="heading">Contests</h5>
               </div>
-              <div className="col-md-2 col-xs-4">
+              <div className="col-md-3 col-xs-4">
                 {isLoggedIn() ?
                   <i className="material-icons wallet-link" onClick={() => this.openNav()}>account_balance_wallet</i>
                   :

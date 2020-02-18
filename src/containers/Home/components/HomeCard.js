@@ -49,7 +49,7 @@ class HomeCard extends Component {
           </nav>
           <div className="container">
             <div className="col-md-6">
-              <img src={require("../../../img/app-1.png")} className="app-setting" />            </div>
+              <img src={require("../../../img/rising.gif")} className="app-setting" />            </div>
             <div className="col-md-6">
               <h1 className="caption-h1">Welcome to Rising 11<br />  The Fantasy Game</h1>
               <p className="banner-p p-14">Lorem Ipsum minima voluptatibus eveniet, quisquam deserunt temporibus molestias nesciunt, quia amet nostrum cumque quaerat vitae aut laudantium, autem aspernatur recusandae.</p>
