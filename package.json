@@ -12,7 +12,7 @@
     "jquery": "^3.4.1",
     "macaddress": "^0.2.9",
     "material-ui-popup-state": "^1.5.3",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react": "^16.12.0",
     "react-cookie": "^4.0.3",
     "react-datepicker": "^2.12.1",
